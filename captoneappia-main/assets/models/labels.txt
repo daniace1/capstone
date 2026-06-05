@@ -1,5 +1,0 @@
-0 mancuernas
-1 Kettlebell
-2 leg_curl
-3 smith
-4 press_banca
